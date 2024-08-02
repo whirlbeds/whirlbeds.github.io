@@ -1,22 +1,8 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /writings/index.html
+title: Writings
 ---
-
-# Hobbies
-
-## Swimming
-
-<div class="third">
-</div>
-
-## Music
-
-<div class="third">
-</div>
-
-## Poetry
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
