@@ -8,9 +8,11 @@ title: Blogs
 
 ### 2024
 
+- [Physics Exp. Reports](https://whirlbeds.github.io/blogs/rep)
+  
 ### 2023
 
-- [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)
+- [How To Build A Personal Blog](https://whirlbeds.github.io/blogs/web)
 
 ### 2022
 

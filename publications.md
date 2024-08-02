@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 
+> Lastest Update:
 
 ## Conference Paper
 
