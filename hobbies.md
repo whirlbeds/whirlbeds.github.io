@@ -10,7 +10,6 @@ title: Hobbies
 
 <div class="third">
 </div>
-<br>
 
 ## Music
 

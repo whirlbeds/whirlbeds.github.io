@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-## Competitions (Selected)
+## Competitions
 
 ## Services
 
