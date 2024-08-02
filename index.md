@@ -6,9 +6,8 @@ layout: page
 
 ## **Weizhi WANG**
 
-I am a junior undergrad majoring in EE at Tsinghua University. 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at
-<wangweiz22@mails.tsinghua.edu.cn>
+I am now a JUNIOR majoring in **Electronic Engineering** at Tsinghua University. 
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at <wangweiz22@mails.tsinghua.edu.cn>.
 
 ## Hobbies
 
