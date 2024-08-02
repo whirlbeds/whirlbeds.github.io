@@ -10,15 +10,10 @@ title: Blogs
 
 ### 2023
 
-- [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
+- [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)
 
 ### 2022
 
 ### 2021
 
 ### 2020
-
-## Leave a Message
-
-## Web Star History
-
