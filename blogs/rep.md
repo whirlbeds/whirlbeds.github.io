@@ -10,16 +10,16 @@ Using LaTeX
 
 ### Superconductor
 
-<a href ="/blogs/rep.asset/supc.pdf"><img src="/images/rep/rep.jpg"></a>
+<a href ="/blogs/rep.assets/supc.pdf"><img src="/images/rep/rep.jpg" align="center" width="50%" ></a>
 
 ### Ultrasonic
 
-<a href ="/blogs/rep.asset/ultr.pdf"><img src="/images/rep/rep.jpg"></a>
+<a href ="/blogs/rep.assets/ultr.pdf"><img src="/images/rep/rep.jpg" align="center" width="50%"></a>
 
 ### Work Function
 
-<a href ="/blogs/rep.asset/work.pdf"><img src="/images/rep/rep.jpg"></a>
+<a href ="/blogs/rep.assets/work.pdf"><img src="/images/rep/rep.jpg" align="center" width="50%"></a>
 
 ### Grating
 
-<a href ="/blogs/rep.asset/grtg.pdf"><img src="/images/rep/rep.jpg"></a>
+<a href ="/blogs/rep.assets/grtg.pdf"><img src="/images/rep/rep.jpg" align="center" width="50%"></a>
