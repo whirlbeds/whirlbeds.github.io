@@ -137,8 +137,8 @@ title: vol1
     color:rgb(213, 239, 205);
     border-radius;
 ">
-<h3 style="color:white"> 2023/5 读《吴越春秋》二首</h2>
-<h4 style="color:white"> 伍子胥</h2>
+<h3 style="color:white"> 2023/5 读《吴越春秋》二首</h3>
+<h4 style="color:white"> 伍子胥</h4>
 <p>偃蹇还逢君寡情。景纯未解卜平生。<Br>
 羽飞文种才为弃，兔死陶朱隐不成。<Br>
 楚主吴王应自悔，飘摇沦落岂堪惊。<Br>
@@ -164,7 +164,7 @@ title: vol1
     color:rgb(213, 239, 205);
     border-radius;
 ">
-<h3 style="color:white"> 2024/3 杂诗</h2>
+<h3 style="color:white"> 2024/3 杂诗</h3>
 <h4 style="color:white"> 三月十六将春游 </h4>
 <p>几时消却碎琼堆。复觉春温渐渐回。<br>
 绕砌苔滋晴翠入，卷帘风动暗香来。<br>
@@ -235,7 +235,7 @@ title: vol1
     color:rgb(213, 239, 205);
     border-radius;
 ">
-<h3 style="color:white"> 2024/5 杂诗</h2>
+<h3 style="color:white"> 2024/5 杂诗</h3>
 <h4 style="color:white"> 返京</h4>
 <p> 南乡闲假收春暮。清晓空随赴洛车。<br>
 下国连行三日雨，上林应尽一春花。<br>
